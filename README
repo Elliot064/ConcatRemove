@@ -1,3 +1,5 @@
 To validate ConcatRemove copy the Main.java file over to gdb online and select the
 java option. Running this file will test any calls made in the main function. Currently
 main is testing the two unit test cases. 
+While import statements cause errors in the unit test file the tests exist conceptually
+and correct outputs are verified in main. 
