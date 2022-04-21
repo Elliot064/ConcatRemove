@@ -3,3 +3,10 @@ java option. Running this file will test any calls made in the main function. Cu
 main is testing the two unit test cases. 
 While import statements cause errors in the unit test file the tests exist conceptually
 and correct outputs are verified in main. 
+Efficiency is O(n) where n is the number of shared characters between string 1 and string 2.
+
+input = "head" "heed" 4
+return value = "yes"
+
+input = "apple" "banana" 8
+return value = "no"
