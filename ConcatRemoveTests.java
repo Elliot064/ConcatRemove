@@ -18,4 +18,5 @@ class ConcatRemoveTest{
        actual = ConcatRemove("apple", "banana", 8);
        expect = "no";
        Assert.assertEquals(actual, expect);
+  }
 }
